@@ -112,7 +112,6 @@ Config rule `s3-bucket-server-side-encryption-enabled` detects unencrypted S3 bu
 ## 👋 Author
 
 **VAIBHAV MAINAD**
-🔗 [LinkedIn](www.linkedin.com/in/
-vaibhav-maindad-89baa2244)
+🔗 [LinkedIn](www.linkedin.com/in/vaibhav-maindad-89baa2244)
 
 ---
